@@ -1,0 +1,9 @@
+[
+  {"id": 1, "displayName": "Zeus", "picture": "http://labs.qnimate.com/portfolio-materialize/images/profile.png"},
+  {"id": 2, "displayName": "Poseidon", "picture": "http://labs.qnimate.com/portfolio-materialize/images/profile.png"},
+  {"id": 3, "displayName": "Hades", "picture": "http://labs.qnimate.com/portfolio-materialize/images/profile.png"},
+  {"id": 4, "displayName": "Ares", "picture": "http://labs.qnimate.com/portfolio-materialize/images/profile.png"},
+  {"id": 5, "displayName": "Hera", "picture": "http://labs.qnimate.com/portfolio-materialize/images/profile.png"},
+  {"id": 6, "displayName": "Athena", "picture": "http://labs.qnimate.com/portfolio-materialize/images/profile.png"},
+  {"id": 7, "displayName": "Appolo", "picture": "http://labs.qnimate.com/portfolio-materialize/images/profile.png"}
+]
